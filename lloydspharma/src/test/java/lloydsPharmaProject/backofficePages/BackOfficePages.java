@@ -6,7 +6,6 @@ import lloydsPharmaProject.Models.Product;
 import lloydsPharmaProject.pages.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
