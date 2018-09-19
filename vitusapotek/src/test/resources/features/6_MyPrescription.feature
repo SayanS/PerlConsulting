@@ -1,5 +1,6 @@
 Feature: 6.0000 MyPrescription
 
+
   Background: Setup
     Given Home page is opened
     Given Confirm using cookies
