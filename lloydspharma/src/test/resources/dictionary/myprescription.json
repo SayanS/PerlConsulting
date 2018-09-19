@@ -1,0 +1,41 @@
+{
+  "Comments": {
+    "nl_BE": "Opmerkingen",
+    "fr_BE": "Commentaires"
+  },
+
+  "FirstName": {
+    "nl_BE": "Voornaam *",
+    "fr_BE": "Prénom *"
+  },
+  "LastName": {
+    "nl_BE": "Familienaam *",
+    "fr_BE": "Nom de famille *"
+  },
+  "Email": {
+    "nl_BE": "Emailadres *",
+    "fr_BE": "Adresse email *"
+  },
+
+  "PhoneNumber": {
+    "nl_BE": "Telefoonnummer",
+    "fr_BE": "Téléphone"
+  },
+
+  "NationalPhone": {
+    "nl_BE": "Nationaal nummer",
+    "fr_BE": "Numéro de registre national"
+  },
+
+  "Chosen": {
+    "nl_BE": "Gekozen",
+    "fr_BE": "Choisi"
+  },
+
+  "Order Placed Successfully": {
+    "nl_BE": "Order Placed Successfully",
+    "fr_BE": "Order Placed Successfully"
+  }
+
+
+}

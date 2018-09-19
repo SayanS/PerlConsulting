@@ -1,0 +1,32 @@
+{
+  "checkout.orderConfirmation.checkoutSuccessful": {
+    "nl_BE": "De bestelling werd succesvol geregistreerd",
+    "fr_BE": "Règlement effectué avec succès"
+  },
+
+  "The order was successfully registered":{
+    "nl_BE": "De bestelling werd succesvol geregistreerd",
+    "fr_BE": "Règlement effectué avec succès"
+  },
+
+  "Thank you for your order!": {
+    "nl_BE": "Bedankt voor uw bestelling!",
+    "fr_BE": "Merci pour votre commande!"
+  },
+
+  "Completed": {
+    "nl_BE": "Voltooid",
+    "fr_BE": "Terminé"
+  },
+
+  "Cancelled": {
+    "nl_BE": "Geannuleerd",
+    "fr_BE": "Annulé"
+  },
+
+  "Payment at pickup": {
+    "nl_BE": "Betaling bij afhaling",
+    "fr_BE": "Vous payez lors de la réception"
+  }
+
+}

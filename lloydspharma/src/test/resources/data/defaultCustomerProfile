@@ -1,0 +1,20 @@
+{
+  "title":"Mevr",
+  "firstName":"Dmitriy",
+  "lastName":"Testov",
+  "phoneNumber":"+434343434343000",
+  "address":"Avenue, str.",
+  "building":"777",
+  "box":"888",
+  "postCode":"1000",
+  "city":"BRUSSEL",
+  "email":"lloydp2017@gmail.com",
+  "password":"registered",
+  "confirmPassword":"registered",
+  "iWantToBeFour": "true",
+  "iWantToResiveNewsLetter": "true",
+  "additionalInfo":"Test profile info",
+  "birthDate":"12.11.1977"
+}
+
+

@@ -1,0 +1,63 @@
+{
+  "Please correct the errors below": {
+    "nl_BE": "Gelieve de foutmeldingen hieronder te corrigeren.",
+    "fr_BE": "S'il vous plaît corriger les erreurs ci-dessous."
+  },
+  "Thank you for your registration": {
+    "nl_BE": "Bedankt om zich aan te melden.",
+    "fr_BE": "Merci pour votre inscription."
+  },
+  "You are logged off": {
+    "nl_BE": "U bent afgemeld.",
+    "fr_BE": "Vous avez signé."
+  },
+  "Your username or password was incorrect. Your username is your email address": {
+    "nl_BE": "Uw gebruikersnaam of paswoord was niet correct. Uw gebruikersnaam is uw e-mailadres.",
+    "fr_BE": "Votre nom d'utilisateur ou mot de passe était incorrect. Votre nom d'utilisateur est votre adresse e-mail."
+  },
+  "Your profile is changed": {
+    "nl_BE": "Uw profiel is gewijzigd",
+    "fr_BE": "Votre profil a été mis à jour"
+  },
+  "You must validate your email address": {
+    "nl_BE": "U moet uw e-mailadres valideren.",
+    "fr_BE": "Vous devez valider votre adresse e-mail."
+  },
+  "Your cart saved were merged on your profile and your current shopping cart.": {
+    "nl_BE": "Uw winkelwagen opgeslaan op uw profiel en uw huidige winkelwagen werden samengevoegd.",
+    "fr_BE": "Le panier sauvegardé sur votre compte d'utilisateur et votre panier actuel ont été fusionnés."
+  },
+  "Thanks to volunteer.": {
+    "nl_BE": "Bedankt om zich aan te melden.",
+    "fr_BE": "Merci pour votre inscription."
+  },
+  "Your default address is updated.": {
+    "nl_BE": "Uw standaard adres is bijgewerkt.",
+    "fr_BE": "Votre adresse par défaut a été mise à jour."
+  },
+  "Thank you for your order!": {
+    "nl_BE": "Bedankt voor uw bestelling",
+    "fr_BE": "Merci pour votre commande"
+  },
+  "You'll be notified when your order will be ready for delivery": {
+    "nl_BE": "U zal verwittigd worden wanneer uw bestelling klaar is voor levering",
+    "fr_BE": "Vous serez averti dès que votre commande sera disponible pour enlèvement"
+  },
+  "Your password has been changed": {
+    "nl_BE": "Uw paswoord werd gewijzigd",
+    "fr_BE": "votre mot de passe a été changé"
+  },
+
+  "Your password has been changed. Log in to access your account.": {
+    "nl_BE": "Uw wachtwoord is gewijzigd. Log in om toegang te krijgen tot uw account.",
+    "fr_BE": "Votre mot de passe a été changé. Connectez-vous pour accéder à votre compte."
+  },
+
+  "The product has been removed from your cart": {
+    "nl_BE": "het product is verwijderd van uw winkelwagen",
+    "fr_BE": "Le produit a été retiré de votre panier."
+  }
+}
+
+
+

@@ -1,0 +1,26 @@
+{
+  "Beste Dmitriy": {
+    "nl_BE": "Beste Dmitriy",
+    "fr_BE": "Cher Dmitriy"
+  },
+
+  "Beste Tester Testerson": {
+    "nl_BE": "Beste Tester Testerson",
+    "fr_BE": "Cher Tester Testerson"
+  },
+
+  "To celebrate this, we would like to offer you 500 welcome points!": {
+    "nl_BE" : "Om dit te vieren, bieden wij je graag 500 welkomstpunten aan!",
+    "fr_BE": "Om dit te vieren, bieden wij je graag 500 welkomstpunten aan!"
+  },
+
+  "Welcome to WeCare by Lloydspharma!": {
+    "nl_BE" : "Welkom bij WeCare by Lloydspharma!",
+    "fr_BE": "Welkom bij WeCare by Lloydspharma!"
+  },
+
+  "BaseURL/my-account/update-password": {
+    "nl_BE" : "https://qa.lloydspharma.be/my-account/update-password",
+    "fr_BE": "https://qa.lloydspharma.be/my-account/update-password"
+  }
+}

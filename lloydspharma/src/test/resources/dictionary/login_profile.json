@@ -1,0 +1,60 @@
+{
+  "Please select a title": {
+    "nl_BE": "Gelieve een titel te selecteren",
+    "fr_BE": "Sélectionnez un titre"
+  },
+  "Please enter a first name": {
+    "nl_BE": "Gelieve een voornaam in te geven",
+    "fr_BE": "Entrez un prénom"
+  },
+  "Please enter a last name": {
+    "nl_BE": "Gelieve een familienaam in te geven",
+    "fr_BE": "Entrez un nom de famille"
+  },
+  "Please provide your phone number": {
+    "nl_BE": "Gelieve uw telefoonnummer te voorzien",
+    "fr_BE": "Veuillez fournir votre numéro de téléphone"
+  },
+  "Please enter an address": {
+    "nl_BE": "Gelieve een adres in te geven",
+    "fr_BE": "Écrivez une adresse"
+  },
+  "Building number is required": {
+    "nl_BE": "Building number is required",
+    "fr_BE": "Building number is required"
+  },
+
+  "Please enter your postcode": {
+    "nl_BE": "Gelieve uw postcode in te geven",
+    "fr_BE": "Veuillez indiquer le code postal"
+  },
+  "Please indicate your town": {
+    "nl_BE": "Gelieve uw stad aan te geven",
+    "fr_BE": "Indiquez votre ville"
+  },
+  "Please enter a valid email address": {
+    "nl_BE": "Gelieve een geldig e-mailadres in te vullen.",
+    "fr_BE": "Entrez un email valide"
+  },
+  "Please enter a strong password (at least 6 characters)": {
+    "nl_BE": "Gelieve een sterk paswoord in te geven (minstens 6 karakters)",
+    "fr_BE": "Entrez un mot de passe fort (au moins 6 caractères)"
+  },
+  "Please confirm your password": {
+    "nl_BE": "Gelieve uw paswoord te bevestigen",
+    "fr_BE": "Veuillez confirmer votre mot de passe"
+  },
+
+  "An account already exists for the email address": {
+    "nl_BE" : "Er bestaat reeds een profiel voor dit emailadres.",
+    "fr_BE": "Un compte existe déjà pour cette adresse e-mail."
+  },
+
+  "This phone number already exists": {
+    "nl_BE" : "Dette telefonnummeret eksisterer allerede",
+    "fr_BE": "Ce numéro de téléphone existe déjà"
+  }
+
+}
+
+

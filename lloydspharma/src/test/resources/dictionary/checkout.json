@@ -1,0 +1,244 @@
+{
+  "Mrs": {
+    "nl_BE": "Mevr",
+    "fr_BE": ""
+  },
+  "Not available": {
+    "nl_BE": "Niet beschikbaar",
+    "fr_BE": "Indisponible"
+  },
+  "Your basket is empty": {
+    "nl_BE": "Uw winkelwagen is leeg",
+    "fr_BE": "Votre panier est vide"
+  },
+  "FirstName": {
+    "nl_BE": "Voornaam",
+    "fr_BE": "Prénom"
+  },
+  "LastName": {
+    "nl_BE": "Familienaam",
+    "fr_BE": "Nom de famille"
+  },
+  "Email": {
+    "nl_BE": "Email",
+    "fr_BE": "Email"
+  },
+  "PhoneNumber": {
+    "nl_BE": "Telefoonnummer",
+    "fr_BE": "Numéro de téléphone portable"
+  },
+  "Address": {
+    "nl_BE": "Straatnaam en nummer",
+    "fr_BE": "Nom et numéro de rue"
+  },
+  "Postcode": {
+    "nl_BE": "Postcode",
+    "fr_BE": "Code postal"
+  },
+  "City (auto-filled)": {
+    "nl_BE": "Stad",
+    "fr_BE": "Ville"
+  },
+  "Land": {
+    "nl_BE": "land",
+    "fr_BE": "Pays"
+  },
+
+  "dd.mm.yyyy":{
+    "nl_BE": "dd.mm.jjjj",
+    "fr_BE": "jj.mm.aaaa"
+  },
+
+  "Number *":{
+    "nl_BE": "Nummer",
+    "fr_BE": "Numéro"
+  },
+
+  "E-mail *":{
+    "nl_BE": "E-mail",
+    "fr_BE": "Email"
+  },
+
+  "Important information about your health (pregnancy, illness, ...)":{
+    "nl_BE": "Belangrijke informatie over uw gezondheid (zwangerschap, ziekte,...)",
+    "fr_BE": "Informations importantes à signaler sur votre état de santé (grossesse, maladies dont vous souffrez,…)"
+  },
+
+  "First Name *": {
+    "nl_BE": "Voornaam *",
+    "fr_BE": "Prénom *"
+  },
+  "Last Name *": {
+    "nl_BE": "Achternaam *",
+    "fr_BE": "Nom de famille *"
+  },
+  "Addresss 1 *": {
+    "nl_BE": "Adres 1 *",
+    "fr_BE": "Adresse 1 *"
+  },
+  "Building": {
+    "nl_BE": "Nummer",
+    "fr_BE": "Numéro"
+  },
+  "Building *":{
+    "nl_BE": "Nummer *",
+    "fr_BE": "Numéro *"
+  },
+  "Post box": {
+    "nl_BE": "Postbus",
+    "fr_BE": "Boîte postale"
+  },
+  "Box": {
+    "nl_BE": "Postbus",
+    "fr_BE": "Boîte postale"
+  },
+  "Addresss 2": {
+    "nl_BE": "Adres 2",
+    "fr_BE": "Adresse 2"
+  },
+  "Mobile number *": {
+    "nl_BE": "mobiel nummer *",
+    "fr_BE": "Numéro de téléphone portable *"
+  },
+  "Post code *": {
+    "nl_BE": "Postcode *",
+    "fr_BE": "Code postal *"
+  },
+  "City": {
+    "nl_BE": "Stad *",
+    "fr_BE": "Ville *"
+  },
+  "Do all products in stock": {
+    "nl_BE": "Har alle produkter på lager",
+    "fr_BE": "Har alle produkter på lager"
+  },
+  "checkout.orderConfirmation.checkoutSuccessful": {
+    "nl_BE": "De bestelling werd succesvol geregistreerd",
+    "fr_BE": "checkout.orderConfirmation.checkoutSuccessful"
+  },
+  "Thank you for your order!": {
+    "nl_BE": "Thank you for your order!",
+    "fr_BE": "Thank you for your order!"
+  },
+
+  "shipping Method": {
+    "nl_BE": "Verzendingswijze",
+    "fr_BE": "Mode d'expédition"
+  },
+
+  "home or office": {
+    "nl_BE": "thuis of op kantoor",
+    "fr_BE": "à domicile"
+  },
+
+  "TERMS OF PHARMACY PHARMA LLOYD": {
+    "nl_BE": "ALGEMENE VOORWAARDEN APOTHEEK LLOYDSPHARMA",
+    "fr_BE": "CONDITIONS GÉNÉRALES PHARMACIE LLOYDSPHARMA"
+  },
+
+  "1. Application of these Terms and Conditions": {
+    "nl_BE": "1. Toepassing van deze Algemene Voorwaarden",
+    "fr_BE": "1. Application des Conditions Générales"
+  },
+
+  "2. Definitions": {
+    "nl_BE": "2. Begrippen",
+    "fr_BE": "2. Définitions"
+  },
+
+  "3. Offered Products": {
+    "nl_BE": "3. Aangeboden Producten",
+    "fr_BE": "3. Produits offerts"
+  },
+
+  "18 Changes to these Terms": {
+    "nl_BE": "18 Wijzigingen aan deze Algemene Voorwaarden",
+    "fr_BE": "18 Modifications aux Conditions Générales"
+  },
+
+  "Total products": {
+    "nl_BE": "Totaal producten",
+    "fr_BE": "Total produits"
+  },
+
+  "Discount": {
+    "nl_BE": "Korting",
+    "fr_BE": "Ristourne"
+  },
+
+  "Total": {
+    "nl_BE": "Totaal",
+    "fr_BE": "Total"
+  },
+
+  "Delivery:": {
+    "nl_BE": "Levering:",
+    "fr_BE": "Livraison:"
+  },
+
+  "Total:": {
+    "nl_BE": "Totaal:",
+    "fr_BE": "Total:"
+  },
+
+  "Free delivery": {
+    "nl_BE": "Levering is gratis",
+    "fr_BE": "Livraison gratuite"
+  },
+
+  "Free Shipping from 49 Euro": {
+    "nl_BE": "Gratis verzending bij bestellingen boven 49 euro",
+    "fr_BE": "Livraison gratuite à partir de 49 euro"
+  },
+
+  "An e-mail with a link sent to you to change your password": {
+    "nl_BE": "Er is een e-mail met een link naar u gestuurd om uw wachtwoord te wijzigen",
+    "fr_BE": "Nous avons envoyé un courriel avec un lien pour modifier votre mot de passe."
+  },
+
+  "Forgotten password": {
+    "nl_BE": "Vergeten paswoord",
+    "fr_BE": "Mot de passe oublié"
+  },
+
+  "Ship To:": {
+    "nl_BE": "Verzend naar het adres:",
+    "fr_BE": "Livrer à l'adresse:"
+  },
+
+  "Not in stock online": {
+    "nl_BE": "Niet in de online voorraad",
+    "fr_BE": "Pas en stock en ligne"
+  },
+
+  "cancel":{
+    "nl_BE": "Annuleren",
+    "fr_BE": "Annuler"
+  },
+
+  "Price item":{
+    "nl_BE": "artikelprijs",
+    "fr_BE": "Prix ​​de l'article"
+  },
+
+  "Price low - high":{
+    "nl_BE": "Prijs laag - hoog",
+    "fr_BE": "Prix bas - haut"
+  },
+
+  "Price high - low":{
+    "nl_BE": "Prijs hoog - laag",
+    "fr_BE": "Prix haut - bas"
+  },
+
+  "Alphabetical":{
+    "nl_BE": "Naam A-Z",
+    "fr_BE": "Nom A-Z"
+  },
+
+  "Descending":{
+    "nl_BE": "Naam Z-A",
+    "fr_BE": "Nom Z-A"
+  }
+
+}
