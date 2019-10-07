@@ -18,6 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 
 public class BasePage extends PageObject {
+
     public String DICTIONARY_PATH = "./src/test/resources/dictionary/base_home.json";
     public String DICTIONARY_PRODUCTS = "./src/test/resources/dictionary/products.json";
     public String DICTIONARY_CHECKOUT = "./src/test/resources/dictionary/checkout.json";
