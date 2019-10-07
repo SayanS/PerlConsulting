@@ -18,7 +18,6 @@ import java.util.concurrent.TimeUnit;
 
 
 public class BasePage extends PageObject {
-
     public String DICTIONARY_PATH = "./src/test/resources/dictionary/base_home.json";
     public String DICTIONARY_PRODUCTS = "./src/test/resources/dictionary/products.json";
     public String DICTIONARY_CHECKOUT = "./src/test/resources/dictionary/checkout.json";
@@ -29,6 +28,7 @@ public class BasePage extends PageObject {
     public String DICTIONARY_EMAIL = "./src/test/resources/dictionary/email.json";
 
     public void selectLanguage(String language) {
+
         clickOnWebElement(Locators.BASE_PAGE_SELECT_LANGUAGE.replace("$Language", language));
     }
 
