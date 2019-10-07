@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import java.util.concurrent.TimeUnit;
 
 public class InjenicoPage extends BasePage{
-    
+
     String CARD_NUMBER=".//input[@id='Ecom_Payment_Card_Number']";
     String EXPIRATION_DATE_MONTH_DROP_DOWN=".//select[@id='Ecom_Payment_Card_ExpDate_Month']";
     String EXPIRATION_DATE_YEAR_DROP_DOWN=".//select[@id='Ecom_Payment_Card_ExpDate_Year']";

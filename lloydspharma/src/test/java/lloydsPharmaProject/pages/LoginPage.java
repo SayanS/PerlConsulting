@@ -15,6 +15,7 @@ public class LoginPage extends BasePage {
     public void openLoginPage(String base_url) {
         getDriver().navigate().to(base_url+"/login");
     }
+    
     public void selectTitleRegistration(String title) {
         if(!title.equals(""))
         selectFromDropdown(findBy(Locators.LOGIN_PAGE_REGISTRATION_FORM_TITLE_DROP_DOWN), title);
